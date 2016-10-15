@@ -1,0 +1,492 @@
+Annual Meeting Of The Association For Computational Linguistics	1.55854e-06
+Computational Linguistics	1.49262e-06
+International Conference On Computational Linguistics	8.78308e-07
+Workshop on Language Technology for Cultural Heritage Data (LaTeCH 2007)	7.34344e-07
+Conference On Empirical Methods In Natural Language Processing	6.9511e-07
+Conference Of The European Association For Computational Linguistics	6.72585e-07
+COLING-ACL	6.54096e-07
+Human Language Technology Conference And Meeting Of The North American Association For Computational Linguistics	6.19653e-07
+Applied Natural Language Processing Conference	5.98653e-07
+Applied Natural Language Processing Conference And Meeting Of The North American Association For Computational Linguistics	5.82926e-07
+International Conference On Computational Linguistics And Annual Meeting Of The Association For Computational Linguistics	5.55884e-07
+Human Language Technology Conference	5.54665e-07
+Conference On Computational Natural Language Learning CoNLL	5.2128e-07
+SIGDAT Conference On Empirical Methods In Natural Language Processing	5.17231e-07
+Human Language Technology Conference And Empirical Methods In Natural Language Processing	4.78384e-07
+Joint SIGDAT Conference On Empirical Methods In Natural Language Processing And Very Large Corpora	4.65913e-07
+Workshop On Speech And Natural Language	4.41367e-07
+Human Language Technology Conference And Meeting Of The North American Association For Computational Linguistics - Short Papers	4.33765e-07
+Meeting Of The North American Association For Computational Linguistics	4.23994e-07
+Message Understanding Conference	4.20532e-07
+2007 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)	4.19214e-07
+45th Annual Meeting of the Association of Computational Linguistics	4.17715e-07
+Workshop On Very Large Corpora	4.15769e-07
+Very Large Corpora	4.07665e-07
+International Conference On Computational Linguistics And Annual Meeting Of The Association For Computational Linguistics - Poster Sessions	3.79668e-07
+Workshop On Computational Natural Language Learning CoNLL	3.58161e-07
+Human Language Technologies 2007: The Conference of the North American Chapter of the Association for Computational Linguistics; Proceedings of the Main Conference	3.57313e-07
+LREC	3.48926e-07
+Annual Meeting Of The Association For Computational Linguistics - Interactive Poster And Demonstration Sessions	3.48612e-07
+45th Annual Meeting of the Association for Computational Linguistics Companion Volume Proceedings of the Demo and Poster Sessions	3.45099e-07
+SIGdial Workshop On Discourse And Dialogue	3.4262e-07
+Conference On Computational Natural Language Learning And Of The Second Learning Language In Logic Workshop CoNLL And LLL	3.41197e-07
+Workshop On Intelligent Scalable Text Summarization	3.23702e-07
+EMNLP	3.21467e-07
+International Workshop On Parsing Technology	3.10468e-07
+SIGHAN Workshop On Chinese Language Processing	3.09732e-07
+SENSEVAL International Workshop On The Evaluation Of Systems For The Semantic Analysis Of Text	3.07482e-07
+International Conference On Natural Language Generation	3.0537e-07
+Workshop On Text Summarization Branches Out	3.02284e-07
+Annual Meeting Of The Association For Computational Linguistics - Interactive Posters And Demonstrations	3.00515e-07
+Workshop On Natural Language Generation EWNLG	3.00197e-07
+EACL	2.96156e-07
+American Journal Of Computational Linguistics	2.9502e-07
+ACL-IJCNLP	2.94094e-07
+Annual Meeting Of The Association For Computational Linguistics - Student Research Workshop	2.93191e-07
+Fourth International Workshop on Semantic Evaluations (SemEval-2007)	2.91728e-07
+Workshop On Intrinsic And Extrinsic Evaluation Measures For Machine Translation And/or Summarization	2.90482e-07
+Workshop On Tagging Text With Lexical Semantics: Why, What, And How?	2.89431e-07
+Workshop on Statistical Machine Translation	2.89222e-07
+Workshop On Unsupervised Lexical Acquisition	2.85366e-07
+Workshop On Computational Approaches To Semitic Languages	2.83052e-07
+International Conference On Computational Linguistics - Project Notes	2.82472e-07
+Workshop On Building And Using Parallel Texts	2.82392e-07
+Workshop On Statistical Machine Translation	2.80645e-07
+Proceedings of the 9th SIGdial Workshop on Discourse and Dialogue	2.77039e-07
+Workshop On Automatic Summarization	2.76682e-07
+Workshop On Data-Driven Methods In Machine Translation	2.76445e-07
+International Workshop On Natural Language Generation	2.73735e-07
+Workshop On Multiword Expressions: Analysis, Acquisition And Treatment	2.72194e-07
+Second International Joint Conference on Natural Language Processing: Companion Volume including Posters/Demos and tutorial abstracts	2.72137e-07
+Human Language Technologies: The 2010 Annual Conference of the North American Chapter of the Association for Computational Linguistics	2.71726e-07
+HLT-NAACL	2.71435e-07
+Workshop On Usage Of WordNet In Natural Language Processing Systems	2.7076e-07
+International Conference On Computational Linguistics And Annual Meeting Of The Association For Computational Linguistics - Interactive Presentation Sessions	2.69041e-07
+Human Language Technology Conference And Meeting Of The North American Association For Computational Linguistics - Demonstration Papers	2.6845e-07
+Proceedings of the Fourth SIGHAN Workshop on Chinese Language Processing	2.67213e-07
+ACL	2.65987e-07
+Chinese Language Processing Workshop	2.653e-07
+Computational Lexical Semantics Workshop	2.64467e-07
+International Workshop On Paraphrasing IWP	2.64086e-07
+Human Language Technologies 2007: The Conference of the North American Chapter of the Association for Computational Linguistics; Companion Volume, Short Papers	2.63966e-07
+Workshop On Operational Factors In Practical, Robust Anaphora Resolution For Unrestricted Texts	2.61144e-07
+SIGLEX Workshop On Standardizing Lexical Resources	2.60317e-07
+Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies	2.58117e-07
+Proceedings of the Third International Joint Conference on Natural Language Processing	2.5688e-07
+Theoretical Issues In Natural Language Processing	2.5609e-07
+Workshop On Unsupervised Learning In Natural Language Processing	2.55306e-07
+Workshop On Word Sense Disambiguation: Recent Successes And Future Directions	2.54892e-07
+Workshop On Building And Using Parallel Texts: Data Driven Machine Translation And Beyond	2.5475e-07
+Workshop On Automatic Information Extraction And Building Of Lexical Semantic Resources For NLP Applications	2.54094e-07
+Workshop On Text Summarization	2.50712e-07
+Workshop On Very Large Corpora: Academic And Industrial Perspectives	2.50495e-07
+COLING	2.4988e-07
+ACL-PASCAL Workshop on Textual Entailment and Paraphrasing	2.49722e-07
+European Workshop On Natural Language Generation ENLG	2.49683e-07
+International Joint Workshop On Natural Language Processing In Biomedicine And Its Applications NLPBA BioNLP	2.4912e-07
+Workshop On Grammar Engineering And Evaluation	2.47048e-07
+Workshop On Multilingual Summarization And Question Answering	2.46391e-07
+Conference Of The European Association For Computational Linguistics - Demonstrations	2.46082e-07
+Proceedings of the Third International Workshop on Paraphrasing (IWP2005)	2.45354e-07
+Proceedings of the Third Workshop on Statistical Machine Translation	2.43038e-07
+Workshop On Conversational Systems	2.42382e-07
+Workshop On Multilingual And Mixed-Language Named Entity Recognition	2.41514e-07
+SSST, NAACL-HLT 2007 / AMTA Workshop on Syntax and Structure in Statistical Translation	2.39199e-07
+Workshop On The Acquisition Of Lexical Knowledge From Text	2.39096e-07
+Workshop On Incremental Parsing: Bringing Engineering And Cognition Together	2.38626e-07
+Workshop On Discourse Annotation	2.37498e-07
+Workshop On Frontiers In Corpus Annotation	2.37304e-07
+Biological, translational, and clinical language processing	2.37215e-07
+Workshop On Linking Biological Literature, Ontologies And Databases	2.34837e-07
+Workshop On Frontiers In Corpus Annotations II: Pie In The Sky	2.33191e-07
+Workshop On The Balancing Act: Combining Symbolic And Statistical Approaches To Language	2.31095e-07
+Workshop On Computational Environments For Grammar Development And Linguistic Engineering	2.30015e-07
+Workshop On Temporal And Spatial Information Processing	2.29978e-07
+COLING - POSTERS	2.2889e-07
+HLT-NAACL, Companion Volume: Short Papers	2.288e-07
+ACL-IJCNLP: Short Papers	2.28616e-07
+Workshop On The Computational Treatment Of Nominals	2.28283e-07
+Workshop On Empirical Modeling Of Semantic Equivalence And Entailment	2.28153e-07
+Tenth International Conference on Parsing Technologies	2.26635e-07
+Second International Joint Conference on Natural Language Processing: Full Papers	2.2539e-07
+Workshop On New Methods In Language Processing And Computational Natural Language Learning	2.24532e-07
+Linguistic Annotation Workshop	2.24042e-07
+Human Language Technology Conference And Meeting Of The North American Association For Computational Linguistics - Demonstrations	2.23635e-07
+Workshop On Discourse Relations And Discourse Markers	2.23297e-07
+Workshop On TIPSTER Text Program	2.23201e-07
+Workshop On Multiword Expressions: Integrating Processing	2.22744e-07
+Conference Of The European Association For Computational Linguistics - Poster Session	2.22586e-07
+International Conference On Computational Linguistics And Annual Meeting Of The Association For Computational Linguistics - Student Research Worskhop	2.21992e-07
+Workshop On Computational Approaches To Arabic Script-Based Languages	2.198e-07
+Workshop On Morphological And Phonological Learning	2.19628e-07
+TextGraphs Workshop On Graph Based Methods For Natural Language Processing	2.19509e-07
+Workshop On Asian Language Resources And International Standardization	2.18935e-07
+Workshop On Embedded Machine Translation Systems	2.18243e-07
+Workshop On Sentiment And Subjectivity In Text	2.17645e-07
+Workshop On Computationally Hard Problems And Joint Inference In Speech And Language Processing	2.17418e-07
+Workshop On Making Sense Of Sense: Bringing Psycholinguistics And Computational Linguistics Together	2.17084e-07
+Conference On Reference Resolution And Its Applications	2.16621e-07
+Workshop On Building Educational Applications Using Natural Language Processing	2.15697e-07
+CoNLL 2008: Proceedings of the Twelfth Conference on Computational Natural Language Learning	2.15514e-07
+Workshop on Deep Linguistic Processing	2.15448e-07
+CoNLL	2.14867e-07
+Proceedings of the ACL 2010 Conference Short Papers	2.14615e-07
+Workshop On Comparing Corpora	2.14578e-07
+Workshop On Natural Language Processing In The Biomedical Domain	2.14168e-07
+Workshop On Coreference And Its Applications	2.14075e-07
+INLG International Natural Language Generation Workshop	2.13369e-07
+International Natural Language Generation Conference	2.12444e-07
+Workshop On Text Meaning	2.12081e-07
+SIGLEX Workshop On Deep Lexical Acquisition	2.11589e-07
+CL	2.09692e-07
+Workshop On Processing Of Dependency-Based Grammars	2.09447e-07
+Human Language Technology Conference And Meeting Of The North American Association For Computational Linguistics - Student Research Workshop	2.0806e-07
+Workshop On Towards Standards And Tools For Discourse Tagging	2.08028e-07
+Human Language Technologies: The Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL-HLT)	2.07495e-07
+Workshop On Breadth And Depth Of Semantic Lexicons	2.07381e-07
+Proceedings of the Fourth Workshop on Statistical Machine Translation	2.07138e-07
+Workshop On Computational Phonology	2.06386e-07
+Workshop On Open-Domain Question Answering	2.0539e-07
+Proceedings of the ACL-08: HLT Second Workshop on Syntax and Structure in Statistical Translation (SSST-2)	2.04745e-07
+Human Language Technology Conference And Empirical Methods In Natural Language Processing - Interactive Demonstrations	2.04134e-07
+Workshop On Feature Engineering For Machine Learning In Natural Language Processing	2.03413e-07
+Workshop On Text Meaning And Interpretation	2.03234e-07
+Workshop On Effective Tools And Methodologies For Teaching Natural Language Processing And Computational Linguistics	2.0287e-07
+Workshop On New Text Wikis And Blogs And Other Dynamic Text Sources	2.02231e-07
+Workshop On Lexical Semantics And Knowledge Representation	2.01713e-07
+ACL Microfiche Series 1-83, Including Computational Linguistics	2.01564e-07
+Workshop On SEMANET: Building And Using Semantic Networks	2.0138e-07
+COLING - Posters	2.007e-07
+CompuTerm International Workshop On Computational Terminology	1.99083e-07
+Workshop On Spoken Language Translation	1.98432e-07
+4th ACL-SIGSEM Workshop on Prepositions	1.97946e-07
+BioNLP Workshop On Linking Natural Language And Biology	1.97888e-07
+Proceedings of the Workshop on Current Trends in Biomedical Natural Language Processing	1.97784e-07
+Workshop On Word Senses And Multi-Linguality	1.977e-07
+Proceedings of the Fifth International Natural Language Generation Conference	1.97288e-07
+NAACL	1.96584e-07
+International Workshop On Linguistically Interpreted Corpora	1.96571e-07
+Workshop On The Relation Of Discourse/Dialogue Structure And Reference	1.95855e-07
+Proceedings of the Fourth SIGdial Workshop of Discourse and Dialogue	1.95613e-07
+Proceedings of the 12th European Workshop on Natural Language Generation (ENLG 2009)	1.94856e-07
+Workshop on Semantic Evaluations (SemEval)	1.9461e-07
+Proceedings of the Student Research Workshop at EACL 2009	1.9437e-07
+Workshop On Strategic Computing - Natural Language	1.94359e-07
+Proceedings of the ACL 2010 System Demonstrations	1.9377e-07
+Workshop On Natural Language Processing In Biomedicine	1.93731e-07
+Proceedings of the EACL 2009 Workshop on Language Technology and Resources for Cultural Heritage, Social Sciences, Humanities, and Education (LaTeCH &#x2013; SHELT&#x26;R 2009)	1.93453e-07
+International Workshop On Scalable Natural Language Understanding ScaNaLU	1.93424e-07
+Workshop On Human Language Technology And Knowledge Management	1.93392e-07
+Proceedings of the 11th International Conference on Parsing Technologies (IWPT&rsquo;09)	1.92781e-07
+Workshop On Finite State Methods In Natural Language Processing	1.92396e-07
+Workshop On Multilingual Linguistic Resources	1.92353e-07
+INLG International Natural Language Generation Workshop - Demonstration Sessions	1.91791e-07
+Proceedings of the Fourteenth Conference on Computational Natural Language Learning	1.9171e-07
+International Workshop On Information Retrieval With Asian Languages	1.91555e-07
+Workshop On Content Visualization And Intermedia Representations	1.90888e-07
+Workshop On Sharing Tools And Resources	1.90862e-07
+Workshop On Multiword Expressions: Identifying And Exploiting Underlying Properties	1.90683e-07
+Proceedings of the BioNLP 2009 Workshop	1.90154e-07
+Workshop On Natural Language Processing For Communication Aids	1.89788e-07
+Workshop On Recent Advances In Dependency Grammar	1.89328e-07
+Coling 2008: Proceedings of the 3rd Textgraphs workshop on Graph-based Algorithms for Natural Language Processing	1.89283e-07
+Workshop on A Broader Perspective on Multiword Expressions	1.88835e-07
+Software Engineering, Testing, and Quality Assurance for Natural Language Processing	1.88695e-07
+Workshop On Software Engineering And Architecture Of Language Technology Systems SEALTS	1.88248e-07
+Workshop On NLP And XML NLPXML	1.87644e-07
+Proceedings of the Joint Fifth Workshop on Statistical Machine Translation and MetricsMATR	1.87643e-07
+INLG International Natural Language Generation Workshop - Poster Session	1.87085e-07
+International Workshop On Tree Adjoining Grammar And Related Formalisms	1.87068e-07
+Proceedings of the Workshop on Parsing German	1.86877e-07
+Proceedings of the Sixth Workshop on Statistical Machine Translation	1.86122e-07
+Workshop On Interdisciplinary Approaches To Speech Indexing And Retrieval	1.84755e-07
+Proceedings of the Fourth Workshop on Innovative Use of NLP for Building Educational Applications	1.84179e-07
+Workshop On Annotating And Reasoning About Time And Events	1.83876e-07
+Workshop On From Research To Commercial Applications: Making NLP Work In Practice	1.83166e-07
+Workshop On NLP And XML NLPXML RDF/RDFS And OWL In Language Technology	1.8313e-07
+ACL-IJCNLP: Student Research Workshop papers	1.82849e-07
+Proceedings of the Workshop on Geometrical Models of Natural Language Semantics	1.82824e-07
+Proceedings of the Fourth Linguistic Annotation Workshop	1.82686e-07
+Proceedings of the SIGDIAL 2009 Conference	1.82589e-07
+Human Language Technology Conference And Meeting Of The North American Association For Computational Linguistics - Tutorial Abstracts	1.82443e-07
+Workshop On Pragmatics Of Question Answering	1.82307e-07
+Proceedings of the Fifth International Workshop on Inference in Computational Semantics	1.82129e-07
+Proceedings of the Third Linguistic Annotation Workshop (LAW III)	1.82038e-07
+Coling 2008: Proceedings of the 2nd workshop on Information Retrieval for Question Answering	1.82034e-07
+Workshop On Frontiers In Linguistically Annotated Corpora	1.81837e-07
+Proceedings of the Workshop on Integer Linear Programming for Natural Language Processing	1.81433e-07
+Proceedings of the International Natural Language Generation Conference	1.81086e-07
+Proceedings of the Workshop on Semantic Evaluations: Recent Achievements and Future Directions (SEW-2009)	1.80478e-07
+Proceedings of the BioNLP 2009 Workshop Companion Volume for Shared Task	1.80314e-07
+Proceedings of the NAACL HLT 2010 Workshop on Creating Speech and Language Data with Amazon&rsquo;s Mechanical Turk	1.80233e-07
+Workshop on Bridging the Gap: Academic and Industrial Research in Dialog Technologies	1.80057e-07
+Proceedings of the 2009 Workshop on Graph-based Methods for Natural Language Processing (TextGraphs-4)	1.8001e-07
+Workshop On Reversible Grammar In Natural Language Processing	1.79857e-07
+Proceedings of the Thirteenth Conference on Computational Natural Language Learning (CoNLL 2009): Shared Task	1.79834e-07
+Conference Of The European Association For Computational Linguistics - Student Research Workshop	1.79469e-07
+Proceedings of the Ninth International Conference on Computational Semantics (IWCS 2011)	1.79062e-07
+Workshop on Computational Approaches to Semitic Languages: Common Issues and Resources	1.78135e-07
+Workshop On Computer Mediated Language Assessment And Evaluation In Natural Language Processing	1.77171e-07
+Annual Meeting Of The Association For Compuational Linguistics - Student Research Workshop	1.77084e-07
+Workshop On Intentionality And Structure In Discource Relations	1.76967e-07
+Proceedings of the 2nd Workshop on Building and Using Comparable Corpora: from Parallel to Non-parallel Corpora (BUCC)	1.76548e-07
+Proceedings of the Workshop on Unsupervised and Minimally Supervised Learning of Lexical Semantics	1.76398e-07
+Workshop On Automatic Alignment And Extraction Of Bilingual Domain Ontology For Medical Domain Web Search	1.76212e-07
+Proceedings of the NAACL HLT 2010 Workshop on Computational Approaches to Analysis and Generation of Emotion in Text	1.76196e-07
+Workshop On Learning Structured Information In Natural Language Applications	1.75839e-07
+Conference On Question Answering In Restricted Domains	1.7553e-07
+Workshop On Current Themes In Computational Phonology And Morphology	1.75361e-07
+Proceedings of the Fifteenth Conference on Computational Natural Language Learning	1.75358e-07
+Workshop On Building Educational Applications Using NLP	1.747e-07
+Proceedings of the NAACL HLT 2010 First Workshop on Statistical Parsing of Morphologically-Rich Languages	1.73824e-07
+Semantics in Text Processing. STEP 2008 Conference Proceedings	1.7375e-07
+Proceedings of the 2010 Workshop on GEometrical Models of Natural Language Semantics	1.73729e-07
+Workshop On Multilingual Language Resources And Interoperability	1.73559e-07
+Workshop On Reading Comprehension Tests As Evaluation For Computer-Based Language Understanding Systems	1.73491e-07
+Conference Of The European Association For Computational Linguistics - Student Sessions	1.73265e-07
+Workshop On Information Extraction Beyond The Document	1.72977e-07
+Proceedings of the 2nd Workshop on Computational Approaches to Subjectivity and Sentiment Analysis (WASSA 2.011)	1.72879e-07
+Proceedings of the SIGDIAL 2010 Conference	1.72834e-07
+Workshop On ROMAND Robust Methods In Analysis Of Natural Language Data	1.72798e-07
+Workshop On Enhancing And Using Electronic Dictionaries	1.72757e-07
+Proceedings of the Third Workshop on Innovative Use of NLP for Building Educational Applications	1.72572e-07
+SemEval	1.72497e-07
+Workshop on Balto-Slavonic Natural Language Processing	1.72246e-07
+Proceedings of BioNLP Shared Task 2011 Workshop	1.72234e-07
+Proceedings of the 2009 Named Entities Workshop: Shared Task on Transliteration (NEWS 2009)	1.7184e-07
+Workshop On Linguistic Distances	1.71831e-07
+Workshop On Multi-Word-Expressions In A Multilingual Context	1.71741e-07
+Workshop On Linking Biological Literature, Ontologies And Databases: Mining Biological Semantics	1.71687e-07
+Workshop On Referring Phenomena In A Multimedia Context And Their Computational Treatment	1.71556e-07
+Workshop On Ontology Learning And Population: Bridging The Gap Between Text And Knowledge	1.71466e-07
+Workshop On Scalable Natural Language Understanding	1.71303e-07
+Meeting Of The ACL Special Interest Group On Computational Phonology And Morphology	1.71071e-07
+Proceedings of the 2010 Workshop on Biomedical Natural Language Processing	1.70952e-07
+Proceedings of the Seventh Workshop on Statistical Machine Translation	1.70743e-07
+Workshop On Task-Focused Summarization And Question Answering	1.70504e-07
+Workshop On Learning Word Meaning From Non-Linguistic Data	1.70322e-07
+Workshop On A Roadmap For Computational Linguistics	1.70256e-07
+Workshop On Applied Interlinguas: Practical Applications Of Interlingual Approaches To NLP	1.70224e-07
+Proceedings of the NAACL HLT 2009 Workshop on Active Learning for Natural Language Processing	1.70214e-07
+Proceedings of the 2009 Workshop on Text and Citation Analysis for Scholarly Digital Libraries (NLPIR4DL)	1.70066e-07
+Proceedings of the Workshop on Language in Social Media (LSM 2011)	1.6995e-07
+Proceedings of the 6th Workshop on Asian Language Resources	1.69675e-07
+Workshop On Syntactic And Semantic Complexity In Natural Language Processing Systems	1.6954e-07
+Proceedings of the Workshop on Multiword Expressions: Identification, Interpretation, Disambiguation and Applications (MWE 2009)	1.69538e-07
+Workshop On Cross-Language Knowledge Induction Workshop	1.69086e-07
+Proceedings of OntoLex 2005 - Ontologies and Lexical Resources	1.69075e-07
+Proceedings of the Eight International Conference on Computational Semantics	1.68984e-07
+ACL-IJCNLP: Software Demos	1.68795e-07
+Workshop on TextGraphs: Graph-Based Algorithms for Natural Language Processing	1.68601e-07
+Workshop On Analyzing Conversations In Text And Speech	1.68538e-07
+Proceedings of the NAACL HLT 2010 Fifth Workshop on Innovative Use of NLP for Building Educational Applications	1.68243e-07
+SIGSEM Workshop On Prepositions	1.68049e-07
+Proceedings of the 2009 Workshop on Applied Textual Inference (TextInfer)	1.67891e-07
+HLT-NAACL, Companion Volume: Student Research Workshop and Doctoral Consortium	1.67666e-07
+Workshop On NLP And XML NLPXML Multi-Dimensional Markup	1.67577e-07
+Workshop On Speech-To-Speech Translation: Algorithms And Systems	1.67553e-07
+Workshop On Machine Translation In Asia	1.6731e-07
+Proceedings of the GEMS 2011 Workshop on GEometrical Models of Natural Language Semantics	1.67006e-07
+Proceedings of the Sixth International Workshop on Linguistically Interpreted Corpora (LINC-2005)	1.66711e-07
+EACL - Demos	1.66417e-07
+Workshop on Computational Approaches to Figurative Language	1.66265e-07
+Coling 2008: Proceedings of the workshop on Grammar Engineering Across Frameworks	1.66096e-07
+Proceedings of the NAACL HLT 2010 Demonstration Session	1.66061e-07
+Proceedings of the IJCNLP-08 Workshop on NLP for Less Privileged Languages	1.65997e-07
+Proceedings of the Fifteenth Conference on Computational Natural Language Learning: Shared Task	1.65752e-07
+Proceedings of the NAACL HLT 2009 Workshop on Semi-supervised Learning for Natural Language Processing	1.65577e-07
+Workshop On Multilingual Question Answering MLQA	1.65379e-07
+Proceedings of the 2010 Workshop on Domain Adaptation for Natural Language Processing	1.65301e-07
+Workshop On Research Directions In Dialogue Processing	1.64736e-07
+NAACL HLT 2010 Tutorial Abstracts	1.64628e-07
+Proceedings of the Third Workshop on Syntax and Structure in Statistical Translation (SSST-3) at NAACL HLT 2009	1.64608e-07
+Proceedings of the 2009 Workshop on Language Generation and Summarisation (UCNLG+Sum 2009)	1.6451e-07
+Proceedings of the 5th Linguistic Annotation Workshop	1.64423e-07
+Coling 2008: Proceedings of the workshop on Speech Processing for Safety Critical Translation and Pervasive Applications	1.64408e-07
+Workshop on Cognitive Aspects of Computational Language Acquisition	1.64334e-07
+Workshop On Analysis Of Geographic References	1.63927e-07
+Applied Natural Language Processing Conference And Meeting Of The North American Association For Computational Linguistics - Student Research Workshop	1.63903e-07
+Interactive Question Answering Workshop	1.63895e-07
+Proceedings of the Workshop on Negation and Speculation in Natural Language Processing	1.63892e-07
+Proceedings of the Workshop on Computational Approaches to Linguistic Creativity	1.63865e-07
+Workshop On KRAQ Knowledge And Reasoning For Language Processing	1.63769e-07
+Proceedings of the SIGDIAL 2011 Conference	1.63761e-07
+Proceedings of the ACL-HLT 2011 System Demonstrations	1.63424e-07
+Proceedings of the 4th Workshop on Building and Using Comparable Corpora: Comparable Corpora and the Web	1.63269e-07
+Proceedings of the 7th Workshop on Asian Language Resources (ALR7)	1.63265e-07
+Proceedings of the Sixth Workshop on Innovative Use of NLP for Building Educational Applications	1.63221e-07
+Workshop On Adaptive Text Extraction And Mining ATEM	1.63045e-07
+HLT-NAACL, Companion Volume: Tutorial Abstracts	1.62901e-07
+COLING - Demos	1.6283e-07
+Ninth Meeting of the ACL Special Interest Group in Computational Morphology and Phonology	1.62744e-07
+Proceedings of the First workshop on Unsupervised Learning in NLP	1.62715e-07
+ACL-IJCNLP: Tutorial Abstracts	1.62665e-07
+Proceedings of the 2010 Named Entities Workshop	1.62538e-07
+Proceedings of the 4th Workshop on Syntax and Structure in Statistical Translation	1.62411e-07
+Proceedings of TextGraphs-6: Graph-based Methods for Natural Language Processing	1.62378e-07
+Proceedings of the 2009 Workshop on Grammar Engineering Across Frameworks (GEAF 2009)	1.62001e-07
+Proceedings of the Tenth Meeting of ACL Special Interest Group on Computational Morphology and Phonology	1.61971e-07
+Proceedings of the 2009 Workshop on The People&rsquo;s Web Meets NLP: Collaboratively Constructed Semantic Resources (People's Web)	1.61937e-07
+Proceedings of the 5th ACL-HLT Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities	1.6185e-07
+Proceedings of the 2nd Workshop on The People&rsquo;s Web Meets NLP: Collaboratively Constructed Semantic Resources	1.61702e-07
+Proceedings of the 2010 Workshop on Multiword Expressions: from Theory to Applications	1.61681e-07
+International Workshop On Medical Speech Translation	1.61637e-07
+Proceedings of the NAACL HLT 2010 Student Research Workshop	1.61529e-07
+Workshop On Psychocomputational Models Of Human Language Acquisition	1.61281e-07
+Proceedings of BioNLP 2011 Workshop	1.60914e-07
+Proceedings of the Sixth SIGHAN Workshop on Chinese Language Processing	1.60862e-07
+Proceedings of the Workshop on Monolingual Text-To-Text Generation	1.60839e-07
+Proceedings of the Seventh Workshop on Building Educational Applications Using NLP	1.60734e-07
+Proceedings of the Workshop on Multiword Expressions: from Parsing and Generation to the Real World	1.60594e-07
+NAACL-HLT 2007 Doctoral Consortium	1.6013e-07
+Workshop On Recent Advances In Natural Language Processing And Information Retrieval	1.59485e-07
+Proceedings of Fifth Workshop on Syntax, Semantics and Structure in Statistical Translation	1.5941e-07
+Proceedings of the ACL 2011 Student Session	1.59361e-07
+Proceedings of the ACL 2011 Workshop on Relational Models of Semantics	1.5935e-07
+Proceedings of the EACL 2009 Workshop on Computational Approaches to Semitic Languages	1.5935e-07
+Proceedings of the 2nd workshop on Cross Lingual Information Access (CLIA) Addressing the Information Need of Multilingual Societies	1.59214e-07
+Proceedings of ACL SIGLEX Workshop on Software	1.59035e-07
+Workshop On Evaluation Methodologies For Language And Dialogue Systems	1.58837e-07
+*SEM	1.58566e-07
+Proceedings of the NAACL HLT 2010 Workshop on Computational Linguistics and Writing: Writing Processes and Authoring Aids	1.58329e-07
+Joint Conference on EMNLP and CoNLL - Shared Task	1.57774e-07
+Proceedings of the Twelfth Meeting of the Special Interest Group on Computational Morphology and Phonology	1.57655e-07
+Proceedings of the 2nd Workshop on Cognitive Modeling and Computational Linguistics	1.5741e-07
+Proceedings of the 13th Annual Meeting of the Special Interest Group on Discourse and Dialogue	1.57174e-07
+Workshop on Grammar-Based Approaches to Spoken Language Processing	1.57113e-07
+Proceedings of the NAACL HLT 2010 First International Workshop on Formalisms and Methodology for Learning by Reading	1.57099e-07
+	1.57046e-07
+Proceedings of the 2010 Workshop on NLP and Linguistics: Finding the Common Ground	1.56772e-07
+Workshop On RObust Methods In Analysis Of Natural Language Data ROMAND	1.5671e-07
+Proceedings of the First Workshop on Algorithms and Resources for Modelling of Dialects and Language Varieties	1.56668e-07
+Proceedings of the Joint Conference on Chinese Language Processing	1.56605e-07
+INLG 2012 Proceedings of the Seventh International Natural Language Generation Conference	1.56583e-07
+International Workshop On Web As Corpus	1.5647e-07
+Proceedings of the Second Workshop on Language in Social Media	1.56053e-07
+Proceedings of the NAACL HLT 2010 Workshop on Computational Linguistics in a World of Social Media	1.55995e-07
+Proceedings of the ACL 2010 Student Research Workshop	1.55983e-07
+Workshop On How Can Computational Linguistics Improve Information Retrieval?	1.5584e-07
+Proceedings of the Sixth Workshop on Syntax, Semantics and Structure in Statistical Translation	1.5571e-07
+Tutorial Abstracts of ACL 2010	1.5567e-07
+Proceedings of the Workshop on Technologies and Corpora for Asia-Pacific Speech Translation (TCAST)	1.55595e-07
+Workshop On Spoken Language Understanding For Conversational Systems And Higher Level Linguistic Information For Speech Processing	1.55581e-07
+International Workshop On Language Resources For Translation Work, Research And Training	1.55532e-07
+Proceedings of the Workshop on Distributional Semantics and Compositionality	1.55473e-07
+Proceedings of the Joint Workshop on Unsupervised and Semi-Supervised Learning in NLP	1.55356e-07
+DiscoMT	1.55356e-07
+TACL	1.55305e-07
+Proceedings of the 3rd Workshop in Computational Approaches to Subjectivity and Sentiment Analysis	1.55284e-07
+Workshop on Embodied Language Processing	1.55178e-07
+SIGPHON Workshop On The Computation Of Phonological Constraints	1.55148e-07
+Proceedings of the NAACL HLT 2010 Workshop on Speech and Language Processing for Assistive Technologies	1.55068e-07
+Proceedings of the NAACL-HLT 2012 Workshop: Will We Ever Really Replace the N-gram Model? On the Future of Language Modeling for HLT	1.54927e-07
+Proceedings of the Second Workshop on Speech and Language Processing for Assistive Technologies	1.54868e-07
+Workshop On Interactive Spoken Dialog Systems: Bringing Speech And NLP Together In Real Applications	1.54779e-07
+Coling 2008: Proceedings of the workshop Multi-source Multilingual Information Extraction and Summarization	1.54702e-07
+Proceedings of the NAACL HLT 2010 Workshop on Semantic Search	1.54632e-07
+Proceedings of the NAACL HLT 2010 Sixth Web as Corpus Workshop	1.5454e-07
+Proceedings of the Workshop on Semantic Analysis in Social Media	1.54499e-07
+Proceedings of the Third International Workshop on Cross Lingual Information Access: Addressing the Information Need of Multilingual Societies (CLIAWS3)	1.54469e-07
+Proceedings of the ACL-08: HLT Workshop on Mobile Language Processing	1.54435e-07
+Workshop On Concept To Speech Generation Systems	1.54394e-07
+Proceedings of the 3rd Workshop on Cognitive Modeling and Computational Linguistics (CMCL 2012)	1.54374e-07
+Proceedings of the EACL 2009 Workshop on the Interaction between Linguistics and Computational Linguistics: Virtuous, Vicious or Vacuous?	1.54365e-07
+Workshop On Psycho-Computational Models Of Human Language Acquisition	1.54264e-07
+Proceedings of the NAACL-HLT Workshop on the Induction of Linguistic Structure	1.54233e-07
+Workshop On Effective Tools And Methodologies For Teaching NLP And CL	1.54182e-07
+Proceedings of the Workshop on Software Engineering, Testing, and Quality Assurance for Natural Language Processing (SETQA-NLP 2009)	1.5414e-07
+Events: Definition, Detection, Coreference, and Representation	1.53979e-07
+Proceedings of the TextInfer 2011 Workshop on Textual Entailment	1.53978e-07
+Proceedings of the NAACL-HLT 2012 Workshop on Computational Linguistics for Literature	1.53958e-07
+Workshop On Linguistic Annotation: Getting The Model Right	1.53788e-07
+Proceedings of the 2010 Workshop on Companionable Dialogue Systems	1.53787e-07
+Proceedings of the UCNLG+Eval: Language Generation and Evaluation Workshop	1.53779e-07
+BioNLP: Proceedings of the 2012 Workshop on Biomedical Natural Language Processing	1.53755e-07
+Coling 2008: Proceedings of the workshop on Knowledge and Reasoning for Answering Questions	1.5374e-07
+Proceedings of the Workshop on Automatic Summarization for Different Genres, Media, and Languages	1.53715e-07
+Proceedings of TextGraphs-5 - 2010 Workshop on Graph-based Methods for Natural Language Processing	1.53697e-07
+Proceedings of the 11th Meeting of the ACL Special Interest Group on Computational Morphology and Phonology	1.5355e-07
+Proceedings of the Fifth Workshop on Asian Language Resources (ALR-05) and First Symposium on Asian Language Resources Network (ALRN)	1.53326e-07
+Proceedings of the ACL-2012 Special Workshop on Rediscovering 50 Years of Discoveries	1.53209e-07
+Proceedings of the EACL 2009 Workshop on Computational Linguistic Aspects of Grammatical Inference	1.53169e-07
+Proceedings of the NAACL HLT 2010 Workshop on Active Learning for Natural Language Processing	1.53073e-07
+Proceedings of the NAACL HLT 2010 Second Workshop on Computational Approaches to Linguistic Creativity	1.53008e-07
+Proceedings of the 6th Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities	1.52919e-07
+Proceedings of the 2010 Workshop on Cognitive Modeling and Computational Linguistics	1.52917e-07
+SSST	1.52871e-07
+Proceedings of the ACL 2012 Joint Workshop on Statistical Parsing and Semantic Processing of Morphologically Rich Languages	1.5249e-07
+Proceedings of the Joint Workshop on Exploiting Synergies between Information Retrieval and Machine Translation (ESIRMT) and Hybrid Approaches to Machine Translation (HyTra)	1.52483e-07
+Proceedings of the 2nd Workshop on Cognitive Aspects of the Lexicon	1.5241e-07
+Proceedings of the 4th Workshop on Cross Lingual Information Access	1.52332e-07
+Proceedings of the 4th Named Entity Workshop (NEWS) 2012	1.52332e-07
+Proceedings of the Third Workshop on Issues in Teaching Computational Linguistics	1.52202e-07
+NAACL-HLT Workshop on Future directions and needs in the Spoken Dialog Community: Tools and Data (SDCTD 2012)	1.51952e-07
+Proceedings of the NAACL HLT Workshop on Extracting and Using Constructions in Computational Linguistics	1.5185e-07
+Workshop On The Lexicon And Figurative Language	1.51732e-07
+ENLG	1.51601e-07
+metaphor in NLP	1.51415e-07
+CVSC	1.51415e-07
+Proceedings of the NAACL HLT 2010 Young Investigators Workshop on Computational Approaches to Languages of the Americas	1.51256e-07
+Proceedings of the Workshop on Innovative Hybrid Approaches to the Processing of Textual Data	1.5123e-07
+Proceedings of the Third Workshop on Speech and Language Processing for Assistive Technologies	1.51211e-07
+Workshop On ELearning For Computational Linguistics And Computational Linguistics For ELearning	1.51092e-07
+BEA	1.51006e-07
+Proceedings of the NAACL HLT 2010 Second Louhi Workshop on Text and Data Mining of Health Documents	1.50964e-07
+Proceedings of the First Workshop on Language Technologies for African Languages	1.50888e-07
+LASM	1.50859e-07
+Proceedings of the 3rd Workshop on the People's Web Meets NLP: Collaboratively Constructed Semantic Resources and their Applications to NLP	1.50859e-07
+HLT-NAACL, Companion Volume: Demonstration Session	1.50814e-07
+Workshop On Patent Corpus Processing	1.50668e-07
+Workshop Proceedings of TextGraphs-7: Graph-based Methods for Natural Language Processing	1.50598e-07
+Proceedings of the 2003 EACL Workshop on Morphological Processing of Slavic Languages	1.50582e-07
+BUCC	1.50478e-07
+Proceedings of the Workshop on Extra-Propositional Aspects of Meaning in Computational Linguistics	1.50415e-07
+COLING - Tutorials	1.50328e-07
+Proceedings of SRSL 2009, the 2nd Workshop on Semantic Representation of Spoken Language	1.50198e-07
+Proceedings of the Workshop on Computational Approaches to Deception Detection	1.50084e-07
+Proceedings of the Workshop on Detecting Structure in Scholarly Discourse	1.50079e-07
+Proceedings of the EACL 2003 Workshop on Evaluation Initiatives in Natural Language Processing: are evaluation methods, metrics and resources reusable?	1.50079e-07
+Proceedings of Workshop on Evaluation Metrics and System Comparison for Automatic Summarization	1.50055e-07
+Proceedings of the First Workshop on Predicting and Improving Text Readability for target reader populations	1.50015e-07
+Proceedings of the 10th International Workshop on Finite State Methods and Natural Language Processing	1.4968e-07
+Proceedings of the 2010 Workshop on Applications of Tree Automata in Natural Language Processing	1.4946e-07
+Workshop On Partially Automated Techniques For Transcribing Naturally Occurring Continuous Speech	1.49454e-07
+Proceedings of the NAACL HLT 2010 First Workshop on Computational Neurolinguistics	1.49328e-07
+Human Language Technology Conference And Meeting Of The North American Association For Computational Linguistics - Doctoral Consortium	1.49316e-07
+Proceedings of the 2009 Workshop on Knowledge and Reasoning for Answering Questions (KRAQ 2009)	1.49285e-07
+WASSA	1.49285e-07
+Workshop on Cognitive Modeling and Computational Linguistics	1.49285e-07
+SIGDIAL	1.49285e-07
+Proceedings of the IJCNLP-08 Workshop on Named Entity Recognition for South and South East Asian Languages	1.49206e-07
+MWE	1.49193e-07
+Proceedings of ACL 2012 Student Research Workshop	1.49175e-07
+Proceedings of the First Workshop on Multilingual Modeling	1.49099e-07
+Workshop On Constraints And Language Processing	1.49047e-07
+HyTra	1.49027e-07
+Proceedings of the EACL 2012 Joint Workshop of LINGVIS & UNCLH	1.48841e-07
+Proceedings of the Second Workshop on NLP Challenges in the Information Explosion Era (NLPIX 2010)	1.48841e-07
+Proceedings of the 1st Workshop on South and Southeast Asian Natural Language Processing	1.48841e-07
+COLING - Tutorial Notes	1.48841e-07
+Coling 2008: Proceedings of the workshop on Human Judgements in Computational Linguistics	1.48841e-07
+Proceedings of the 6th Workshop on  Ontologies and Lexical Resources 	1.48285e-07
+Proceedings of the EACL 2009 Workshop on Cognitive Aspects of Computational Language Acquisition	1.48246e-07
+Proceedings of the Eighth Workshop on Asian Language Resouces	1.47954e-07
+Coling 2008: Proceedings of the workshop on Cross-Framework and Cross-Domain Parser Evaluation	1.47949e-07
+Workshop On Computer And Internet Supported Education In Language And Speech Technology	1.47921e-07
+Proceedings of the 1st Workshop on Speech and Multimodal Interaction in Assistive Environments	1.47906e-07
+BioNLP 	1.47904e-07
+WVL	1.47895e-07
+Workshop on Computational Linguistics for Literature	1.47895e-07
+Proceedings of the Workshop on Computational Models of Language Acquisition and Loss	1.46711e-07
+NLP4ITA	1.46711e-07
+JEP-TALN-RECITAL 2012, Workshop DEGELS 2012: Défi GEste Langue des Signes (DEGELS 2012: Gestures and Sign Language Challenge)	1.46711e-07
+MoL	1.46711e-07
+Tutorial Abstracts of ACL 2011	1.46711e-07
+MultiLing	1.46711e-07
+Proceedings of the Second Workshop on Semantic Interpretation in an Actionable Context	1.46711e-07
+Workshop on Statistical Parsing of Morphologically-Rich Languages	1.46711e-07
+Workshop on Predicting and Improving Text Readability for target reader populations	1.46711e-07
+Coling 2008: Proceedings of the Workshop on Cognitive Aspects of the Lexicon (COGALEX 2008)	1.46711e-07
+LaTeCH	1.46711e-07
+Proceedings of the Workshop on Applications of Tree Automata Techniques in Natural Language Processing	1.46711e-07
+Proceedings of the Second Workshop on Computational Linguistics and Writing (CLW 2012): Linguistic and Cognitive Aspects of Document Creation and Document Engineering	1.46711e-07
